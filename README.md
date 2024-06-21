@@ -1,2 +1,3 @@
+[AWS project 3.pdf](https://github.com/user-attachments/files/15930772/AWS.project.3.pdf)
 # AWS-project3
 Integrating Grafana with a ubuntu server to monitor CPU utilization...
